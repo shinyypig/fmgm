@@ -24,20 +24,20 @@ The results are saved in `./results`, where there are also plotting codes.
 ## Synthetic Experiment Results
 
 <div align=center>
-    <img width=30% style=margin:2% src="assets/acc_3_noise.png">
-    <img width=30% style=margin:2% src="assets/acc_6_noise.png">
-    <img width=30% style=margin:2% src="assets/acc_9_noise.png">
-    <img width=30% style=margin:2% src="assets/acc_12_noise.png">
+    <img width=20% style=margin:2% src="assets/acc_3_noise.png">
+    <img width=20% style=margin:2% src="assets/acc_6_noise.png">
+    <img width=20% style=margin:2% src="assets/acc_9_noise.png">
+    <img width=20% style=margin:2% src="assets/acc_12_noise.png">
     <p>
         <em>Anti-noise performance, where number of graphs ranges from 3 to 12.</em>
     </p>
 </div>
 
 <div align=center>
-    <img width=30% style=margin:2% src="assets/acc_3_outlier.png">
-    <img width=30% style=margin:2% src="assets/acc_6_outlier.png">
-    <img width=30% style=margin:2% src="assets/acc_9_outlier.png">
-    <img width=30% style=margin:2% src="assets/acc_12_outlier.png">
+    <img width=20% style=margin:2% src="assets/acc_3_outlier.png">
+    <img width=20% style=margin:2% src="assets/acc_6_outlier.png">
+    <img width=20% style=margin:2% src="assets/acc_9_outlier.png">
+    <img width=20% style=margin:2% src="assets/acc_12_outlier.png">
     <p>
         <em>Anti-outlier performance, where number of graphs ranges from 3 to 12.</em>
     </p>
