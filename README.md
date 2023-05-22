@@ -4,7 +4,7 @@
 
 In recent years, multi-graph matching has become a popular yet challenging task in graph theory. There exist two major problems in multi-graph matching, i.e., the cycle-consistency problem, and the high time and space complexity problem. On one hand, the pairwise-based multi-graph matching methods are of low time and space complexity, but in order to keep the cycle-consistency of the matching results, they need additional constraints. Besides, the accuracy of the pairwise-based multi-graph matching is highly dependent on the selected optimization algorithms. On the other hand, the tensor-based multi-graph matching methods can avoid the cycle-consistency problem, while their time and space complexity is extremely high. In this paper, we found the equivalence between the pairwise-based and the tensor-based multi-graph matching methods under some specific circumstances. Based on this finding, we proposed a new multi-graph matching method, which not only avoids the cycle-consistency problem, but also reduces the complexity. In addition, we further improved the proposed method by introducing a lossless factorization of the affinity matrix in the multi-graph matching methods. Synthetic and real data experiments demonstrate the superiority of our method.
 
-Fulltext of this paper can be found in [here](FMGM.pdf).
+Fulltext of this paper can be found [here](FMGM.pdf).
 
 ## Usage
 
