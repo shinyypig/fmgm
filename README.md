@@ -43,7 +43,7 @@ The results are saved in `./results`, where there are also plotting codes.
     </p>
 </div>
 
-## Bibtex
+## BibTex
 
 ```bib
 @article{
